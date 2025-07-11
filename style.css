@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+    color: darkgreen;
+    font-family: cursive;
+    text-align: center;
+}
+
+button {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+img {
+    border-radius: 10px;
+}
+
+h1 {
+    color: black;
+}
